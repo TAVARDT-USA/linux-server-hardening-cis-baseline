@@ -6,7 +6,7 @@
 
 An automated baseline hardening framework, kernel parameter tuning profiles, and zero-trust perimeter configuration scripts aligned with **CIS Benchmarks** and **NIST Cybersecurity Framework (CSF 2.0)** for production Linux distributions (Ubuntu, Debian, RHEL, Rocky Linux).
 
-Engineered and maintained by the infrastructure and cyber defence practice at **TAVARDT USA**.
+Engineered and maintained by the infrastructure and cyber defence practice at **TAVARDT**.
 
 ***
 
@@ -72,4 +72,8 @@ Need senior engineering support for cloud architecture, SOC 2 / HIPAA compliance
 
 ## License
 
-Released under the MIT License. Copyright (c) 2026 TAVARDT.
+Released under the MIT License. Copyright
+
+***
+
+© 2026 TAVARDT. All rights reserved.
