@@ -1,4 +1,4 @@
-# Enterprise Linux Server Hardening Baseline | TAVARDT USA
+# Enterprise Linux Server Hardening Baseline
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Verification Suite](https://img.shields.io/badge/TAVARDT-Diagnostic%20Suite-5b3cf5.svg)](https://tools.tavardt.com/)
@@ -72,4 +72,4 @@ Need senior engineering support for cloud architecture, SOC 2 / HIPAA compliance
 
 ## License
 
-Released under the MIT License. Copyright (c) 2026 TAVARDT USA.
+Released under the MIT License. Copyright (c) 2026 TAVARDT.
