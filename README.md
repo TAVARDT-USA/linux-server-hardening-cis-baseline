@@ -3,6 +3,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Verification Suite](https://img.shields.io/badge/TAVARDT-Diagnostic%20Suite-5b3cf5.svg)](https://tools.tavardt.com/)
 [![Security Baseline](https://img.shields.io/badge/CIS%20Benchmark-Level%201%20%26%202-00C853.svg)](https://ag.tavardt.com/cybersecurity/server-hardening/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 An automated baseline hardening framework, kernel parameter tuning profiles, and zero-trust perimeter configuration scripts aligned with **CIS Benchmarks** and **NIST Cybersecurity Framework (CSF 2.0)** for production Linux distributions (Ubuntu, Debian, RHEL, Rocky Linux).
 
@@ -70,10 +71,18 @@ Need senior engineering support for cloud architecture, SOC 2 / HIPAA compliance
 
 ***
 
+## Governance and Sovereignty
+
+* **Sovereign Unit**: [TAVARDT United States](https://ag.tavardt.com/us/) (`TAVARDT-USA`)
+* **Core Standards**: [00-core Governance](https://github.com/TAVARDT-USA/00-core)
+* **Diagnostic Portal**: [TAVARDT US Diagnostic Suite](https://tools.tavardt.com/us/)
+* **Enterprise Security**: [TAVARDT US Cybersecurity](https://ag.tavardt.com/us/cybersecurity/)
+
+***
+
 ## License
 
-Released under the MIT License. Copyright
-
+Released under the MIT License. See [LICENSE](LICENSE) for full details.
 ***
 
 © 2026 TAVARDT. All rights reserved.
