@@ -2,6 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Verification Suite](https://img.shields.io/badge/TAVARDT-Diagnostic%20Suite-5b3cf5.svg)](https://tools.tavardt.com/)
+[![Shell](https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnu-bash&logoColor=white)]
 [![Security Baseline](https://img.shields.io/badge/CIS%20Benchmark-Level%201%20%26%202-00C853.svg)](https://ag.tavardt.com/cybersecurity/server-hardening/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
@@ -64,10 +65,8 @@ Audit your public perimeter, SSL/TLS certificates, and application endpoints usi
 
 Need senior engineering support for cloud architecture, SOC 2 / HIPAA compliance audits, or emergency breach containment?
 
-* **Corporate Practice:** [https://ag.tavardt.com/](https://ag.tavardt.com/)
 * **Server Hardening Services:** https://ag.tavardt.com/cybersecurity/server-hardening/
 * **DFIR & Breach Recovery:** [https://ag.tavardt.com/cybersecurity/digital-forensics-incident-response/](https://ag.tavardt.com/cybersecurity/digital-forensics-incident-response/)
-* **Direct Inquiries:** [https://ag.tavardt.com/contact/](https://ag.tavardt.com/contact/)
 
 ***
 
