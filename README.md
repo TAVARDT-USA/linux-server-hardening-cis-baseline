@@ -1,8 +1,6 @@
 # Enterprise Linux Server Hardening Baseline
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Verification Suite](https://img.shields.io/badge/TAVARDT-Diagnostic%20Suite-5b3cf5.svg)](https://tools.tavardt.com/)
-[![Shell](https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnu-bash&logoColor=white)]
 [![Security Baseline](https://img.shields.io/badge/CIS%20Benchmark-Level%201%20%26%202-00C853.svg)](https://ag.tavardt.com/cybersecurity/server-hardening/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
@@ -57,7 +55,6 @@ Audit your public perimeter, SSL/TLS certificates, and application endpoints usi
 * [HTTP Security Headers Checker](https://tools.tavardt.com/security-headers-check/): Tests HSTS, CSP, and X-Frame-Options.
 * [Exposed Credentials & Secret Scanner](https://tools.tavardt.com/exposed-files-scanner/): Detects leaks of `.env`, `.git`, and database dumps.
 * [DMARC & Email Spoofing Validator](https://tools.tavardt.com/dmarc-checker/): Protects enterprise domains from spoofing and BEC.
-* Full Diagnostic Suite: 20 free technical tools.
 
 ***
 
@@ -80,7 +77,7 @@ Need senior engineering support for cloud architecture, SOC 2 / HIPAA compliance
 
 ## License
 
-Released under the MIT License. See [LICENSE](LICENSE) for full details.
+Released under the MIT License.
 ***
 
 © 2026 TAVARDT. All rights reserved.
