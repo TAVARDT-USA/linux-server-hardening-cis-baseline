@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://ag.tavardt.com/">
+    <img src="https://ag.tavardt.com/img/tavardt-banner.png" alt="TAVARDT" width="1024" />
+  </a>
+</p>
+
 # Linux Server Hardening CIS Baseline
 
 [![Verification Suite](https://img.shields.io/badge/TAVARDT-Diagnostic%20Suite-5b3cf5.svg)](https://tools.tavardt.com/)
